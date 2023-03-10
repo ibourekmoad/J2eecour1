@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="087159b3-3e5c-4db8-812e-abd82be469e3" name="Changes" comment="" />
+    <list default="true" id="087159b3-3e5c-4db8-812e-abd82be469e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/captures/Screenshot from 2023-03-09 15-46-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/captures/Screenshot from 2023-03-09 15-47-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/captures/Screenshot from 2023-03-09 15-47-11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,6 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/moad/Desktop/emsi-courses/4iir2/J2EES8/J2eeseance/captures",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,7 +62,12 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="metier" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/captures" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
@@ -101,7 +115,8 @@
       <updated>1678360809383</updated>
       <workItem from="1678360810476" duration="48000" />
       <workItem from="1678360875387" duration="1009000" />
-      <workItem from="1678369129582" duration="4514000" />
+      <workItem from="1678369129582" duration="5278000" />
+      <workItem from="1678416893607" duration="2347000" />
     </task>
     <servers />
   </component>
